@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; A freshmen Computer Science student exploring the domains of web and cloud applications.
+- 🤔 &nbsp; A freshman Computer Science student exploring the domains of web and cloud applications
 - 🎓 &nbsp; BS(CS) student at UOL
--  👁  &nbsp; Aiming to be one of the finest developers in the community. 
-- 🤩 &nbsp; Passionate about learning cutting-edge technologies.
-- 💪 &nbsp; Want to learn languages like Python and Ruby.
-- 🌱 &nbsp; Learning more about Front-end and Back-end technologies.
+-  👁  &nbsp; Aiming to be one of the finest developers in the community
+- 🤩 &nbsp; Passionate about learning cutting-edge technologies
+- 💪 &nbsp; Want to learn languages like Python and Ruby
+- 🌱 &nbsp; Learning more about Front-end and Back-end technologies
 
 
 <h3>🛠 Tech Stack</h3>
