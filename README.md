@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; A freshman Computer Science student exploring the domains of web and cloud applications
 - 🎓 &nbsp; BS(CS) student at UOL
--  👁  &nbsp; Aiming to be one of the finest developers in the community
+- 👁  &nbsp; Aiming to be one of the finest developers in the community
 - 💪 &nbsp; Learning Javascript and Python
 - 🤩 &nbsp; Passionate about Robotics, Automation and other cutting-edge technologies
 
@@ -12,7 +12,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | C++ | Python
-- 🌐 &nbsp; HTML  | JavaScript |  ReactJS 
+- 🌐 &nbsp; HTML | JavaScript | J5 
 - 🖥 &nbsp; UI | UX | Photoshop 
 
 <h3> 🤝🏻 Connect with Me </h3>
