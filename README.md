@@ -20,7 +20,7 @@
 - Email ➡ shaheermajeed11@gmail.com
 - Facebook ➡ https://www.facebook.com/shaheer.majeed.90
 - Twitter ➡ https://twitter.com/shaheer_x1
-- LinkedIn ➡ https://www.linkedin.com/in/shaheer-majeed-598804210/
+- LinkedIn ➡ https://www.linkedin.com/in/shaheer-majeed-18396b21a/
 - Stackoverflow ➡ https://stackoverflow.com/users/15756530/shaheer-majeed
 
 
